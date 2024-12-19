@@ -125,10 +125,15 @@ kubeadm join kmaster.killer.local:6443 --token lqzgne.9048kwkehyg9va93 \
         --discovery-token-ca-cert-hash sha256:a30c7ee14bbc6cbd49809ee762c9450d687e5c8f1d59a95a625e963a4d15480c
 ```
 node1
+
 ![alt text](pics/screen3.jpg)
+
 ![alt text](pics/screen4.jpg)
+
 node2
+
 ![alt text](pics/screen5.jpg)
+
 ![alt text](pics/screen6.jpg)
 
 #### Déployer Calico pour le réseau du cluster Kubernetes
