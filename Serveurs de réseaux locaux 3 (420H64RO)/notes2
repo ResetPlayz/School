@@ -1,0 +1,36 @@
+#docker compose
+
+sudo apt-get update
+sudo apt install docker-compose-plugin
+
+#verify version https://docs.docker.com/compose/install/linux/#install-using-the-repository
+docker compose version 
+
+vim docker-compose.ymal
+
+versions: '3'
+services:
+	web:
+		container-name:server-web
+		image:nginx
+		ports:
+			-8000:80
+			
+			
+	db:
+		container-name: serv_db
+		image:mysql
+		ports:
+			-3306:3306
+			
+	Enviroment:
+		-mysql_root_password=root	
+		
+	Restard:always #to restart /always on
+#verify config
+
+docker-compose config
+#start
+docker-compose up -d
+#check
+docker-compose ps 

@@ -1,0 +1,48 @@
+#créer et faire tourner un conteneur en local
+docker images #lister les images
+
+docker ps # lister les conteneur
+
+docker pull # Télécharger une image existant
+
+docker pull NAME
+
+#VERIFIER
+
+docker images
+
+#faire tourner l'images dans un conteneur
+docker run -it NAME
+#Verifier cnteneur
+docker ps
+
+#to stop conteneur
+
+docker stop ID-CONTENEUR
+
+
+#Comment créer une images à partier d'un conteneur
+#example lancer un conteneur à partir de l'image
+#centos
+docker run -it --name= centosv1 centos
+
+sudo apt get wget
+#verifier wget install
+wget
+
+#stop machine
+exit
+docker ps -a
+
+#check diff between new conteneur vs his image
+docker diff Centosv1
+
+#on va valider la config et cree une nouvelle images 
+ docker commit centosv1 centosv1-1
+ 
+#verifier
+docker images
+#verify the copy
+docker run -it centosv1-1
+wget #doit etre foncionel
+exit
