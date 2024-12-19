@@ -80,7 +80,9 @@ cp /home/nigaash/Downloads/todo.zip .
     ![alt text](pics/screen2.1.jpg)
 
 3. Modifiy en gitlab
+
     ![alt text](pics/screen3.0.jpg)
+
     ```bash
     git pull
     ```
