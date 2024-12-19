@@ -1,4 +1,4 @@
-# [Laboratoire 2](<../../../labs pdf/Laboratoire-2.pdf>)
+# [Laboratoire 2](<../../labs pdf/Laboratoire-2.pdf>)
 ## Partie 1 Mettez en place avec docker compose deux services (mysql + web)
 
 1. Installer docker compose

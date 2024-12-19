@@ -1,4 +1,4 @@
-# [Laboratoire 5](../../labs%20pdf/Laboratoire-5.pdf)
+# [Laboratoire 5](<../../labs pdf/Laboratoire-5.pdf>)
 
 ## Préparation 
 1. Server Windows 2022 DataCenter avec **AD,DHCP,DNS** 

@@ -1,4 +1,4 @@
-# [Laboratoire 3](../../labs%20pdf/Laboratoire-3.pdf)
+# [Laboratoire 3](<../../labs pdf/Laboratoire-3.pdf>)
 
 ## Préparation 
 1. Dossier de travail pour votre projet.

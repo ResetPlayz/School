@@ -1,0 +1,7 @@
+Installer un cluster Kubernetes avec par exemple un master et deux workers (nœuds).
+
+Tester le fonctionnement de votre cluster en déployant par exemple l’application nginx sur les deux nœuds de votre cluster
+
+Liens :  
+
+https://www.linuxtechi.com/install-kubernetes-on-ubuntu-22-04/

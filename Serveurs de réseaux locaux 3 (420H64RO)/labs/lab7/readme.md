@@ -1,5 +1,6 @@
 --
-# **laboratoire 7**
+
+# [laboratoire 7](<../../labs pdf/Laboratoire-7.pdf>)
 
 ### Goal utiliser ansible
 

@@ -1,4 +1,4 @@
-# [Laboratoire 1](<../../../labs pdf/Laboratoire-1.pdf>)
+# [Laboratoire 1](<../../labs pdf/Laboratoire-1.pdf>)
 ## Partie 1
 ### 1.1 Installer docker sur votre VM
 1. Adjouter Docker's official GPG key:

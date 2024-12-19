@@ -1,4 +1,4 @@
-# [Laboratoire 9](../../labs%20pdf/Laboratoire-9.pdf)
+# [Laboratoire 9](<../../labs pdf/Laboratoire-9.txt>)
 
 ## Préparation 
 1. Server Ubuntu 22.04 Kubernetics Master 
